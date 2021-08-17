@@ -2,6 +2,8 @@
 
 Este reposotorio almacena los archivos necesarios para cargar una página web básica para el proyecto de Negocios Electrónicos y Desarrollo de Páginas Web.
 
+La URL para visualizarla: https://zartqrom.github.io/Pagina-Negocios/
+
 Agradecimientos:
 
 - Pressmaster -> https://www.pexels.com/es-es/video/nino-jugando-con-su-perro-3191251/
